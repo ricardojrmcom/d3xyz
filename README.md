@@ -1,2 +1,2 @@
 # d3xyz
-Monorepo of public work 3
+Monorepo for public work 3
